@@ -76,6 +76,7 @@
   <name>AnsiColor</name>
   <description>Adds ANSI coloring to the Console Output</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/AnsiColor+Plugin</url>
+  <java.level>8</java.level>
 
   <dependencies>
     <dependency>
